@@ -1,20 +1,20 @@
-# Android Project 4 - *Name of App Here*
+# Android Project 4 - *Flixster II*
 
-Submitted by: **Your Name Here**
+Submitted by: **Girish Ganesan**
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixster II** is a movie browsing app that allows users to browse actor/director profiles.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [ ] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents**
+- [Y] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `[person/popular]`
+- [Y] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [Y] **Use Glide to load and display at least one image per entry**
+- [Y] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/jyTqiiu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Girish Ganesan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
